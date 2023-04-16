@@ -31,3 +31,4 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,openstreetmap.org
