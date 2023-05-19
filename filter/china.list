@@ -5,10 +5,12 @@ DOMAIN-SUFFIX,snapdrop.net
 DOMAIN,download.jetbrains.com
 DOMAIN,origin-a.akamaihd.net // Origin Download
 # ---(Microsoft)---
+
 # > Outlook
 DOMAIN,outlook.office365.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.office365.com
+
 # > Windows Server Update Services
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
@@ -18,11 +20,7 @@ DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
 DOMAIN,ntservicepack.microsoft.com
 # ------
-# > PayPal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypalobjects.com
+
 # > Steam
 DOMAIN-SUFFIX,cm.steampowered.com // Steam Connect Manager Servers
 DOMAIN-SUFFIX,steamserver.net
@@ -30,12 +28,15 @@ DOMAIN-SUFFIX,steamserver.net
 IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,203.205.238.0/23,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
+
 # > IP Query
 DOMAIN,ip.istatmenus.app
 DOMAIN,sms.imagetasks.com
+
 # > Speed Test
 DOMAIN-SUFFIX,netspeedtestmaster.com
 DOMAIN,speedtest.macpaw.com
+
 # > Private Tracker
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,animebytes.tv
@@ -69,6 +70,3 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
-
-# Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
-GEOIP,CN,no-resolve
