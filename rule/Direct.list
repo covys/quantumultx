@@ -2,3 +2,5 @@
 
 # 搬瓦工
 HOST-SUFFIX,covy.cloud,Direct
+# Adobe放行
+HOST,lcs-cops.adobe.io,Direct
