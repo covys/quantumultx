@@ -2,3 +2,5 @@
 
 # 搬瓦工
 HOST-SUFFIX,covy.cloud,Direct
+# Adobe拦截
+HOST-SUFFIX,adobe.io,Direct
