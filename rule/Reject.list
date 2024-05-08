@@ -1,0 +1,4 @@
+# NAME: Reject 全球拦截
+
+# Adobe拦截
+HOST-SUFFIX,adobe.io,Reject
