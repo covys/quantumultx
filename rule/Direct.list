@@ -4,3 +4,5 @@
 HOST-SUFFIX,covy.cloud,Direct
 # Adobe放行
 HOST,lcs-cops.adobe.io,Direct
+
+GEOIP,CN,no-resolve
