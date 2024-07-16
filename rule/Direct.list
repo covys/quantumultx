@@ -4,8 +4,5 @@
 HOST-SUFFIX,covy.top,Direct
 # Adobe放行
 HOST,lcs-cops.adobe.io,Direct
-# 百度网盘登录
-HOST-SUFFIX,nsclick.baidu.com,Direct
-HOST-SUFFIX,pan.baidu.com,Direct
 
 GEOIP,CN,no-resolve
