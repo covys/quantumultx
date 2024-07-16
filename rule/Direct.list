@@ -6,5 +6,6 @@ HOST-SUFFIX,covy.top,Direct
 HOST,lcs-cops.adobe.io,Direct
 # 百度网盘登录
 HOST-SUFFIX,nsclick.baidu.com,Direct
+HOST-SUFFIX,pan.baidu.com,Direct
 
 GEOIP,CN,no-resolve
